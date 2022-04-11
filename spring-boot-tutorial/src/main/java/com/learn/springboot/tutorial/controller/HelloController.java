@@ -9,6 +9,6 @@ public class HelloController {
 
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String helloWorld(){
-        return "Welcome to my first Hello world program...vvvv";
+        return "Welcome to my first Hello world program..!!!!!";
     }
 }
